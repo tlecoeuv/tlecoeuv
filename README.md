@@ -10,5 +10,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 <div align="center">
-  <img src="https://badge42.vercel.app/api/v2/stats/cl1klsqv0000609l17jqnadsq?cursusId=21}" alt="tlecoeuv's 42 stats" /></a>
+  <img src="https://badge42.vercel.app/api/v2/stats/cl1klsqv0000609l17jqnadsq?cursusId=21" alt="tlecoeuv's 42 stats" /></a>
 </div>
