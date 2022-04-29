@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanguy Lecoeuvre</h1>
-<h3 align="center">A develloper currently studying at 42 Paris.</h3>
+<h3 align="center">A develloper studying at 42 Paris, and currently specializing in DevOps.</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
